@@ -26,7 +26,7 @@ Step for Laravel 11 CRUD Operation Example
 First of all, we need to get a fresh Laravel 11 version application using the command below because we are starting from scratch. So, open your terminal or command prompt and run the command below:
 
 ```
-composer create-project laravel/laravel example-app
+composer create-project laravel/laravel laravel11-crud
 ```
 
 **Step 2: Install Oracle DB driver for Laravel via OCI8**
